@@ -6,6 +6,9 @@
 		<view class="text">
 			{{name}}
 		</view>
+		<view class="login">
+				<navigator url="../login/index">登录</navigator>
+		</view>
 	</view>
 </template>
 
